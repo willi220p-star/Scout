@@ -21,6 +21,7 @@ Thumbs.db
 exports/
 *.csv
 
+.vercel/
 .vscode/
 .idea/
 .claude/

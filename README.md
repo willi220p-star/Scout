@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/discord/1467620600267931713?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/eneDNUbzcc)
 
-> **Early access** — Scout is a CLI tool right now. A full web app with dashboard, CRM, and team features is in development. Looking for testers and feedback. Join the [Discord](https://discord.gg/eneDNUbzcc) or open an issue.
+> **Live lookup** — https://scout-sus-7971.vercel.app . Enter a public username and Scout returns the profile fields that platform already shows. Locally: python -m uvicorn main:app --host 0.0.0.0 --port 8741. The original CLI is still python scout.py.
 
 Lead generation tool for appointment setters. Scrapes profiles from 8 platforms, enriches them with verified emails using SMTP verification and company domain detection, and exports to CSV.
 
